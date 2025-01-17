@@ -1,0 +1,108 @@
+I thought that these two were interesting because of how simplistic the CA can be. The first one, rule set 40 only shows the first generation, but nothing else after that.
+The next one, rule set 74, seems to be just a line that diagonals out of the screen. Playing around with all of the different rule sets, these two caught my eye because
+They are not as chaotic as the other ones.
+
+Please input a rule set number from 0 to 255: 
+40
+                                #                               
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                              
+Please input a rule set number from 0 to 255: 
+74
+                                #                               
+                               #                                
+                              #                                 
+                             #                                  
+                            #                                   
+                           #                                    
+                          #                                     
+                         #                                      
+                        #                                       
+                       #                                        
+                      #                                         
+                     #                                          
+                    #                                           
+                   #                                            
+                  #                                             
+                 #                                              
+                #                                               
+               #                                                
+              #                                                 
+             #                                                  
+            #                                                   
+           #                                                    
+          #                                                     
+         #                                                      
+        #                                                       
+       #                                                        
+      #                                                         
+     #                                                          
+    #                                                           
+   #                                                            
+  #                                                             
+ #                                                              
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                                
+                                                              

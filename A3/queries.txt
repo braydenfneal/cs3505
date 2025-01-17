@@ -1,0 +1,8 @@
+super
+superhero
+app
+not
+hello
+apple
+applesauce
+application

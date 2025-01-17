@@ -1,0 +1,9 @@
+app
+apple
+application
+bat
+batter
+cat
+super
+superhero
+superheros
